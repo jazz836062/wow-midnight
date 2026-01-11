@@ -21,7 +21,7 @@
 ### Chimaerus
 - heroic: <https://www.youtube.com/watch?v=Luz49ZW9UPE>
 - mythic: <https://youtu.be/wkOe48tPY7M?si=orohjPijoiVYBmMg&t=49>
-## March on Quel'danas
+## March on Quel'Danas
 ### Belo'ren
 - heroic: <https://www.youtube.com/watch?v=MJpWsts_jY8>
 - mythic: <https://youtu.be/ChelZGenX0I?si=x4pLUb52RT2KZLjW>

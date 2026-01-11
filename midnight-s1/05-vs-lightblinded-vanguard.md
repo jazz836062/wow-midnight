@@ -1,16 +1,10 @@
 # Lightblinded Vanguard
-
-
-------------
-
-## normal beta testing notes
-
-- 3x pally: ret, holy, prot
-
-- pull bosses away for aura of wrath, devotion, or peace
-  - drops huge consecration area of denial
-  - other two bosses need to be 40 yards away
-- spread if targeted by avengers shield (small yellow circle)
-- spread if targeted by execution sentence
-  - dodge spinning hammers that come from this
-- dodge shields during aura of devotion
+## Beta Testing Vods
+- heroic: <https://www.youtube.com/watch?v=xTIjaVFOqgw>
+- mythic: <https://youtu.be/ChelZGenX0I?si=eUYR7sG4M6nZgHt5&t=1119>
+## Guides
+- Heroic: <>
+- Mythic: <>
+## Raid Plan
+- Heroic: <>
+- Mythic: <>
