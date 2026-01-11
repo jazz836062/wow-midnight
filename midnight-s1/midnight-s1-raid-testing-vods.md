@@ -1,7 +1,5 @@
 # Midnight Raid Testing
-
 ## The Voidspire
-
 ### Imperator Averzian
 - heroic: <https://www.youtube.com/watch?v=KhEx2ZJoxbA>
 - mythic: <https://youtu.be/wkOe48tPY7M?si=LpB3opQg-rMGsPd4&t=909>
@@ -29,3 +27,8 @@
 - mythic: <https://youtu.be/ChelZGenX0I?si=x4pLUb52RT2KZLjW>
 ### Midnight Falls
 - no testing
+## Additional Notes
+### Testing Item Level
+- normal: 233
+- heroic: 246
+- mythic: 259
