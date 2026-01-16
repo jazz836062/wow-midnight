@@ -33,3 +33,30 @@
 - normal: 233
 - heroic: 246
 - mythic: 259
+### Testing Dates
+- 11.19.2025 - Heroic
+  - Chimaerus
+  - Averzian
+  - Vorasius
+  - Salhadaar
+- 11.20.2025 - Heroic
+  - Belo'ren
+  - Vaelgor & Ezzorak
+  - Lightblinded Vanguard
+- 12.4.2025 - Mythic
+  - Chimaerus
+  - Averzian
+  - Vorasius
+  - Salhadaar
+- 12.5.2025 - Mythic
+  - Belo'ren
+  - Vaelgor & Ezzorak
+  - Lightblinded Vanguard
+- 12.19.2025 - Mythic
+  - Averzian
+  - Vorasius
+  - Salhadaar
+- 01.23.2026 - Mythic
+  - Chimaerus
+  - Vorasius
+  - Salhadaar
