@@ -2,7 +2,7 @@
 ## Beta Testing Vods
 - Heroic: <https://www.youtube.com/watch?v=pfn3_ZPyeug>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=CSFXEw0-_PMttjoc&t=2290>
-- mythic retest: <https://www.youtube.com/watch?v=J8tzZSYvsnk>
+- Mythic Retest: <https://www.youtube.com/watch?v=J8tzZSYvsnk>
 ## Guides
 - Heroic Beta: <>
 - Heroic: <>
