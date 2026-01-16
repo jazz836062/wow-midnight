@@ -4,12 +4,15 @@
 ### Imperator Averzian
 - heroic: <https://www.youtube.com/watch?v=KhEx2ZJoxbA>
 - mythic: <https://youtu.be/wkOe48tPY7M?si=LpB3opQg-rMGsPd4&t=909>
+- mythic retest: <https://www.youtube.com/watch?v=b0DErTjrlGI>
 ### Vorasius
 - heroic: <https://www.youtube.com/watch?v=QcnvMX41QkY>
 - mythic: <https://youtu.be/wkOe48tPY7M?si=An-Ha2nWsUBINa9S&t=1751>
+- mythic retest: <https://www.youtube.com/watch?v=ZcG01E8D8zM>
 ### Fallen King Salhadaar
 - heroic: <https://www.youtube.com/watch?v=pfn3_ZPyeug>
 - mythic: <https://youtu.be/wkOe48tPY7M?si=CSFXEw0-_PMttjoc&t=2290>
+- mythic retest: <https://www.youtube.com/watch?v=J8tzZSYvsnk>
 ### Vaelgar and Ezzorak
 - heroic: <https://www.youtube.com/watch?v=KVRiyXJ_ysE>
 - mythic: <https://youtu.be/ChelZGenX0I?si=jmpp9yYEVfY8ztkw&t=645>
