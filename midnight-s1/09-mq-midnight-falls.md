@@ -2,6 +2,7 @@
 ## Beta Testing Vods
 - No Testing
 ## Guides
+- Heroic Beta - RCP: <>
 - Heroic Beta: <>
 - Heroic: <>
 - Mythic: <>

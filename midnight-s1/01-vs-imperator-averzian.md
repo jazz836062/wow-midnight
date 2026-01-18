@@ -4,6 +4,7 @@
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=LpB3opQg-rMGsPd4&t=909>
 - Mythic Retest: <https://www.youtube.com/watch?v=b0DErTjrlGI>
 ## Guides
+- Heroic Beta - RCP: <>
 - Heroic Beta: <>
 - Heroic: <>
 - Mythic: <>
