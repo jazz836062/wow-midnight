@@ -4,7 +4,7 @@
 ### Imperator Averzian
 - Heroic: <https://www.youtube.com/watch?v=KhEx2ZJoxbA>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=LpB3opQg-rMGsPd4&t=909>
-- Mythic retest: <https://www.youtube.com/watch?v=b0DErTjrlGI>
+- Mythic Retest: <https://www.youtube.com/watch?v=b0DErTjrlGI>
 ### Vorasius
 - Heroic: <https://www.youtube.com/watch?v=QcnvMX41QkY>
 - Mythic: <https://youtu.be/wkOe48tPY7M?si=An-Ha2nWsUBINa9S&t=1751>
