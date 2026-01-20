@@ -13,3 +13,6 @@
 ## Assignments
 - Heroic: <>
 - Mythic: <>
+## Healing CDs
+- Heroic: <>
+- Mythic: <>
