@@ -5,6 +5,7 @@
 - NephUI <https://www.curseforge.com/wow/addons/nephui>
 - Arc UI <https://www.curseforge.com/wow/addons/arc-ui>
 - Tweaks <https://www.curseforge.com/wow/addons/cooldown-manager-tweaks>
+- CDM Centered <https://www.curseforge.com/wow/addons/cooldown-manager-centered>
 ## Unit Frames
 - Simple <https://www.curseforge.com/wow/addons/midnightsimpleunitframes>
 - Better Blizz <https://www.curseforge.com/wow/addons/betterblizzframes>
@@ -17,7 +18,9 @@
 - Twintops <https://www.curseforge.com/wow/addons/twintops-insanity-bar>
 ## Nameplates
 - Platynator <https://www.curseforge.com/wow/addons/platynator>
+  - Jundies <https://wago.io/zaiOOdVa1>
 - Plater <https://www.curseforge.com/wow/addons/plater-nameplates>
+  - Jundies <https://wago.io/ak3iS95aa>
 ## Quality of Life
 - Leatrix Plus <https://www.curseforge.com/wow/addons/leatrix-plus>
 - Edit Mode <https://www.curseforge.com/wow/addons/edit-mode-expanded>
@@ -25,6 +28,7 @@
 - Enhance QoL <https://www.curseforge.com/wow/addons/eqol>
 - Skyriding <https://www.curseforge.com/wow/addons/falcon>
 - Stats <https://www.curseforge.com/wow/addons/statsplus>
+- Talent Loadout Ex <https://www.curseforge.com/wow/addons/talent-loadout-ex>
 ## Miscellaneous
 - Masque <https://www.curseforge.com/wow/addons/masque>
 - Chattynator <https://www.curseforge.com/wow/addons/chattynator>
